@@ -22,7 +22,7 @@
     }
 </style>
 <body>
-    <h1>Developer: Lawrence Estillore</h1>
+    <h1>Developer: John Lorrence Estillore</h1>
 
     <a href="{{url('/')}}">Welcome</a>
     <a href="{{url('/myApplication')}}">My Application</a>
